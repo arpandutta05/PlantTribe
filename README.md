@@ -1,1 +1,3 @@
-# PlantTribe
+# PlantTribe:-
+
+PlantTribe is a comprehensive web-based platform that empowers gardeners, farmers, and dealers through integrated plant care, compost management, and direct crop sales. It offers a user-friendly interface with multilingual support and voice-assisted features in regional languages to ensure accessibility across diverse user groups. The platform includes image-based plant disease detection and reminders to improve plant health and survival. Farmers can list and sell crops directly to gardeners, eliminating middlemen and enabling fair pricing. Secure transactions are supported through UPI and Razorpay integration. Plant Tribe promotes sustainable agriculture, community-driven gardening, and enhances digital access for rural and urban users alike.
