@@ -18,7 +18,7 @@ const SocialPlatform = ({ user, userType }) => {
     {
       id: 2,
       user: { name: "Ram Kisan", type: "farmer", avatar: "👨‍🌾" },
-      content: "This year's wheat crop is excellent. PlantPal helped a lot in disease identification.",
+      content: "This year's wheat crop is excellent. PlantTribe helped a lot in disease identification.",
       image: "/placeholder.svg?height=300&width=400",
       likes: 28,
       comments: 7,
@@ -87,7 +87,7 @@ const SocialPlatform = ({ user, userType }) => {
       <div className="container mx-auto px-4 max-w-2xl">
         {/* Header */}
         <div className="bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-2xl p-6 mb-8 shadow-xl">
-          <h1 className="text-3xl font-bold mb-2">🌍 PlantPal Community</h1>
+          <h1 className="text-3xl font-bold mb-2">🌍 PlantTribe Community</h1>
           <p className="text-green-100">Social Platform for Farmers and Gardeners</p>
         </div>
 

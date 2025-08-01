@@ -43,7 +43,7 @@ const LoginPage = ({ onLogin }) => {
                 <Sprout className="h-8 w-8 text-white" />
               </div>
             </div>
-            <h2 className="text-3xl font-bold text-gray-800 mb-2">{isSignup ? "Register with PlantPal" : "Login"}</h2>
+            <h2 className="text-3xl font-bold text-gray-800 mb-2">{isSignup ? "Register with PlantTribe" : "Login"}</h2>
             <p className="text-gray-600">{isSignup ? "Create New Account" : "Login to your account"}</p>
           </div>
 

@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <Leaf className="h-8 w-8" />
-              <span className="text-2xl font-bold">PlantPal</span>
+              <span className="text-2xl font-bold">PlantTribe</span>
             </div>
             <p className="text-green-100 mb-4">
               Digital companion for Indian farmers and gardeners. Better farming with AI technology.
@@ -84,7 +84,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>help@plantpal.in</span>
+                <span>help@planttribe.in</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
@@ -96,7 +96,7 @@ const Footer = () => {
 
         <div className="border-t border-green-600 mt-8 pt-8 text-center">
           <p className="text-green-200">
-            © 2024 PlantPal. All rights reserved.
+            © 2024 PlantTribe. All rights reserved.
             <span className="mx-2">|</span>
             <a href="#" className="hover:text-white transition-colors">
               Privacy Policy

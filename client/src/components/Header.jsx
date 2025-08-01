@@ -17,7 +17,7 @@ const Header = ({ user, userType, onLogout }) => {
           <Link to="/" className="flex items-center space-x-2 text-2xl font-bold">
             <Leaf className="h-8 w-8" />
             <span className="bg-gradient-to-r from-yellow-300 to-orange-300 bg-clip-text text-transparent">
-              PlantPal
+              PlantTribe
             </span>
           </Link>
 

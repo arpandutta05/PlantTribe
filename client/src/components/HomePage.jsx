@@ -49,7 +49,7 @@ const HomePage = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-yellow-300 to-orange-300 bg-clip-text text-transparent">
-              PlantPal
+              PlantTribe
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-green-100">
               🌱 Digital Companion for Indian Farmers and Gardeners 🌱
@@ -134,9 +134,9 @@ const HomePage = () => {
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-br from-yellow-400 to-orange-500">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-bold text-white mb-6">🌱 Start your PlantPal journey today!</h2>
+          <h2 className="text-4xl font-bold text-white mb-6">🌱 Start your PlantTribe journey today!</h2>
           <p className="text-xl text-orange-100 mb-8 max-w-2xl mx-auto">
-            Thousands of farmers and gardeners are already using PlantPal. Join us and improve your farming.
+            Thousands of farmers and gardeners are already using PlantTribe. Join us and improve your farming.
           </p>
           <Link
             to="/login"
